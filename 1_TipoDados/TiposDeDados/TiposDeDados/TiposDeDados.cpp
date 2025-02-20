@@ -12,7 +12,7 @@ int main()
 	cout << "Tipos Numericos\n";
 	cout << "===============\n";
 	
-	int i = 10;
+	int i = 25;
 	short s = 18;
 	long l = 200000;
 	float f = 1.97F;
